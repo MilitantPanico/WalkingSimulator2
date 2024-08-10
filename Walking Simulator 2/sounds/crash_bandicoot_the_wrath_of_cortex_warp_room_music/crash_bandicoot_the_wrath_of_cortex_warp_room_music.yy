@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"crash_bandicoot_the_wrath_of_cortex_warp_room_music",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":33.516,
+  "name":"crash_bandicoot_the_wrath_of_cortex_warp_room_music",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"crash_bandicoot_the_wrath_of_cortex_warp_room_music.mp3",
+  "type":0,
+  "volume":1.0,
+}

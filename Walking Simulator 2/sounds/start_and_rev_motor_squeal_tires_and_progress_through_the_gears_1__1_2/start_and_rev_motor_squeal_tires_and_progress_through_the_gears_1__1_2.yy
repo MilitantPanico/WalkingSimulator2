@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"start_and_rev_motor_squeal_tires_and_progress_through_the_gears_1__1_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":6.060408,
+  "name":"start_and_rev_motor_squeal_tires_and_progress_through_the_gears_1__1_2",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"start_and_rev_motor_squeal_tires_and_progress_through_the_gears_1__1_2.mp3",
+  "type":0,
+  "volume":1.0,
+}

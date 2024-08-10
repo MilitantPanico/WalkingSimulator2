@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Edvard_Grieg___Peer_Gynt___Morning_Mood___320_kbps_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":370.128,
+  "name":"Edvard_Grieg___Peer_Gynt___Morning_Mood___320_kbps_",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Edvard_Grieg___Peer_Gynt___Morning_Mood___320_kbps_.mp3",
+  "type":0,
+  "volume":1.0,
+}
